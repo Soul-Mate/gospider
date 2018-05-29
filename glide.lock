@@ -1,0 +1,15 @@
+hash: c58e6189e9c5c4009a22ad53575edbe8b33cd3796201b8d6200f98d9da4d53e8
+updated: 2018-05-29T08:12:02.785242173Z
+imports:
+- name: github.com/gomodule/redigo
+  version: 9352ab68be133885e31a43661cc42a220cb8e821
+  subpackages:
+  - internal
+  - redis
+- name: github.com/spaolacci/murmur3
+  version: f09979ecbc725b9e6d41a297405f65e7e8804acc
+- name: github.com/willf/bitset
+  version: 8ce1146b8621c95164efd9c8b1124cfa9b8afb4e
+- name: github.com/willf/bloom
+  version: 54e3b963ee1652b06c4562cb9b6020ebc6e36e59
+testImports: []

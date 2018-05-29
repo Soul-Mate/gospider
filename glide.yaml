@@ -1,0 +1,9 @@
+package: github.com/Soul-Mate/gospider
+import:
+- package: github.com/gomodule/redigo
+  subpackages:
+  - internal
+  - redis
+- package: github.com/spaolacci/murmur3
+- package: github.com/willf/bitset
+- package: github.com/willf/bloom
